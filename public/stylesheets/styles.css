@@ -63,7 +63,7 @@
 }
 #startpage #figure4 {
   top: 475px;
-  left: 940px;
+  left: 1080px;
   background-image: url("/images/figure4.png");
 }
 #startpage #figure4_bubble {
@@ -114,15 +114,21 @@
   left: 540px;
   background-image: url("/images/figure8.png");
 }
+#startpage #figure8:hover {
+  background-image: url("/images/figure8_h.png");
+}
 #startpage #figure9 {
   top: 375px;
-  left: 540px;
+  left: 90px;
   background-image: url("/images/figure9.png");
 }
 #startpage #figure10 {
   top: 275px;
-  left: 540px;
+  left: 427px;
   background-image: url("/images/figure10.png");
+}
+#startpage #figure10:hover {
+  background-image: url("/images/figure10_h.png");
 }
 #startpage #figure11 {
   top: 575px;
@@ -138,9 +144,12 @@
   background-image: url("/images/figure12_h.png");
 }
 #startpage #figure13 {
-  top: 175px;
-  left: 440px;
+  top: 76px;
+  left: 331px;
   background-image: url("/images/figure13.png");
+}
+#startpage #figure13:hover {
+  background-image: url("/images/figure13_h.png");
 }
 #startpage #figure14 {
   top: 140px;
