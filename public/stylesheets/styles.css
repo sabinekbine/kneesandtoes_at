@@ -1,0 +1,160 @@
+@import url("http://fonts.googleapis.com/css?family=Indie+Flower");
+@import url("http://fonts.googleapis.com/css?family=Henny+Penny");
+#startpage .heading {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  font-family: 'Henny Penny', sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+}
+#startpage .figure {
+  position: absolute;
+  width: 229px;
+  height: 177px;
+}
+#startpage .bubble {
+  position: absolute;
+}
+#startpage #figure1 {
+  top: 85px;
+  left: 110px;
+  background-image: url("/images/figure1.png");
+}
+#startpage #figure1:hover {
+  background-image: url("/images/figure1_h.png");
+}
+#startpage #figure1_bubble {
+  top: 30px;
+  left: 30px;
+  width: 185px;
+  height: 119px;
+  background-image: url("/images/figure1_bubble.png");
+}
+#startpage #figure2 {
+  top: 320px;
+  left: -40px;
+  background-image: url("/images/figure2.png");
+}
+#startpage #figure2:hover {
+  background-image: url("/images/figure2_h.png");
+}
+#startpage #figure2_bubble {
+  top: 320px;
+  left: 260px;
+  width: 163px;
+  height: 122px;
+  background-image: url("/images/figure2_bubble.png");
+}
+#startpage #figure3 {
+  top: 175px;
+  left: 740px;
+  background-image: url("/images/figure3.png");
+}
+#startpage #figure3:hover {
+  background-image: url("/images/figure3_h.png");
+}
+#startpage #figure3_bubble {
+  top: 40px;
+  left: 530px;
+  width: 257px;
+  height: 166px;
+  background-image: url("/images/figure3_bubble.png");
+}
+#startpage #figure4 {
+  top: 475px;
+  left: 940px;
+  background-image: url("/images/figure4.png");
+}
+#startpage #figure4_bubble {
+  top: 385px;
+  left: 1000px;
+  width: 172px;
+  height: 114px;
+  background-image: url("/images/figure4_bubble.png");
+}
+#startpage #figure5 {
+  top: 575px;
+  left: 1040px;
+  width: 60px;
+  height: 99px;
+  background-image: url("/images/figure5.png");
+}
+#startpage #figure5_bubble {
+  top: 485px;
+  left: 900px;
+  width: 175px;
+  height: 130px;
+  background-image: url("/images/figure5_bubble.png");
+}
+#startpage #figure6 {
+  top: 575px;
+  left: 340px;
+  width: 166px;
+  height: 72px;
+  background-image: url("/images/figure6.png");
+}
+#startpage #figure6_bubble {
+  top: 485px;
+  left: 300px;
+  width: 200px;
+  height: 144px;
+  background-image: url("/images/figure6_bubble.png");
+}
+#startpage #figure7 {
+  top: 377px;
+  left: 660px;
+  background-image: url("/images/figure7.png");
+}
+#startpage #figure7:hover {
+  background-image: url("/images/figure7_h.png");
+}
+#startpage #figure8 {
+  top: 575px;
+  left: 540px;
+  background-image: url("/images/figure8.png");
+}
+#startpage #figure9 {
+  top: 375px;
+  left: 540px;
+  background-image: url("/images/figure9.png");
+}
+#startpage #figure10 {
+  top: 275px;
+  left: 540px;
+  background-image: url("/images/figure10.png");
+}
+#startpage #figure11 {
+  top: 575px;
+  left: 340px;
+  background-image: url("/images/figure11.png");
+}
+#startpage #figure12 {
+  top: 575px;
+  left: 140px;
+  background-image: url("/images/figure12.png");
+}
+#startpage #figure12:hover {
+  background-image: url("/images/figure12_h.png");
+}
+#startpage #figure13 {
+  top: 175px;
+  left: 440px;
+  background-image: url("/images/figure13.png");
+}
+#startpage #figure14 {
+  top: 140px;
+  left: 970px;
+  background-image: url("/images/figure14.png");
+}
+#startpage #figure14:hover {
+  background-image: url("/images/figure14_h.png");
+}
+#startpage #figure15 {
+  top: 200px;
+  left: 1070px;
+  background-image: url("/images/figure15.png");
+}
+#startpage #figure15:hover {
+  background-image: url("/images/figure15_h.png");
+}
